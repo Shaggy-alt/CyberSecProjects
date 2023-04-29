@@ -12,14 +12,13 @@ Projects include:
 - Installing & using nessus on home network.
 - SIEM integration & monitoring. 
 - Win7 Buffer Overflow Attack.
-- Exploiting Vulnerable machines using..
-    - Eternal Blue exploit. 
-    - SQL Injection. 
-    - Brute force. 
-    - Reverse Shells. 
 - Malware analysis in a static & dynamic environment. 
 - Auditing windows/linux machines. 
 - Privilege escalation on win/linux machines. 
 - Local File Inclusion/Remote File Inclusion. 
 - Footprinting/Fingerprinting.
-
+- Exploiting Vulnerable machines using..
+    - Eternal Blue exploit. 
+    - SQL Injection. 
+    - Brute force. 
+    - Reverse Shells. 
