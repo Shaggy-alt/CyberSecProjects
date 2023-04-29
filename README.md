@@ -1,11 +1,11 @@
 # CyberSecProjects
 All of my projects I've completed related to Cyber Security.
 
----------------------------------------------------------------------------------------
-|NOTE: ALL OF MY PROJECTS WERE CONDUCTED IN A CONTAINED ENVORNMENT.                   |
-|SOME OF THESE TEQCHNIQUES/TOOLS WILL GET YOU INTO LEGAL TROUBLE WHEN USED IMPROPERLY.|
-|DO NOT ATTEMPT IN LIVE PRODUCTION/ WITHOUT CONSENT OF OWNER.                         |
----------------------------------------------------------------------------------------
+
+NOTE: ALL OF MY PROJECTS WERE CONDUCTED IN A CONTAINED ENVORNMENT.                   
+SOME OF THESE TEQCHNIQUES/TOOLS WILL GET YOU INTO LEGAL TROUBLE WHEN USED IMPROPERLY.
+DO NOT ATTEMPT IN LIVE PRODUCTION/ WITHOUT CONSENT OF OWNER.                         
+
 
 Projects include: 
 - Wireshark .pacap file analysis. 
