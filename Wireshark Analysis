@@ -1,8 +1,11 @@
-NOTE: WIRESHARK IS OPEN-SOURCE. Download from here [https://www.wireshark.org] 
+NOTE: WIRESHARK IS OPEN-SOURCE. Download here [https://www.wireshark.org] 
 Follow the installation process and know what you want installed from the installation wizard. Thank you.
 
 -----------------------------------------------------------------------------------------------------------
 
-The goal of this project was to familiarize myself with wireshark and to understand its capabilities &
-figure out its limits. I 
+The goal of this project was to familiarize myself with wireshark, to understand its capabilities &
+figure out its limits. Wireshark's file format for review after capture is .pcap 
+I grabbed a .pcap file with malicious content for me to explore. 
+
+The search function built into wireshark is very powerfull, 
 
