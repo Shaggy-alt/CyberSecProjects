@@ -1,7 +1,7 @@
 I will be using NMAP, Download here if you havent already: https://nmap.org/download
 
 The goal of this project was to understand the difference between Footprinting & 
-Fingerprinting and implement them accordingly. 
+Fingerprinting with the knowledge on implementing them accordingly. 
 
 Footprinting is scanning the entire network topology while 
 Fingerprinting is scanning a specific target to gain further service type info etc...
@@ -23,12 +23,12 @@ Once installed you can start scanning specific targets or do a whole network sca
 
 TO DO A FOOTPRINT: Since this is used to obtain info about a network topology, 
 you will be using the network sweep version. Use any additional options like 
--sV -Pn and even any other scripting tools. Ex: nmap -Pn -sV -O -vvv 10.0.7.1-254
+-sV -Pn and even any other scripting tools. Ex: nmap -sV -O 10.0.7.1-254
 
 TO DO A FINGERPRINT: Used along side enumeration, you are gathering specific information 
 on a specific target. You can use the same options, however I do recomend for testing 
 security try to use avoidance techniques to ensure blue team strength. 
-Ex: nmap -Pn -sV -vvvv -f 10.0.7.21 10.0.7.6
+Ex: nmap -Pn -sV -vvvv 10.0.7.6
 
 ADDIONAL OPTIONS I LIKE TO USE:
   -Port Scanning techniques 
@@ -36,8 +36,8 @@ ADDIONAL OPTIONS I LIKE TO USE:
   -OS detection 
   -Host discovery
   -Evasion
-  -Searching within NSE scripts 'ls | grep ftp' I found to be helpful. 
-  (cd into proper directory before grep command)
+  -Searching for NSE scripts with 'ls | grep ftp' I found to be helpful. 
+  (cd into proper directory before grep command, for kali thats '/usr/share/nmap/scripts')
 
 Said additional info can be found here: https://nmap.org/book/man.html
 
