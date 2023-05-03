@@ -18,8 +18,17 @@ ________________________________________________________________________________
 You can always pull up the manual by using 'man nmap' or 'nmap -h' depending on OS.
 
 Once installed you can start scanning specific targets or do a whole network scan. 
-  -Targeted sweep: nmap 10.0.2.10   
-  -Network sweep: nmap 10.0.2.1-254 
+  -Targeted sweep: nmap 10.0.7.10   
+  -Network sweep: nmap 10.0.7.1-254 
+
+TO DO A FOOTPRINT: Since this is used to obtain info about a network topology, 
+you will be using the network sweep version. Use any additional options like 
+-sV -Pn and even any other scripting tools. Ex: nmap -Pn -sV -O -vvv 10.0.7.1-254
+
+TO DO A FINGERPRINT: Used along side enumeration, you are gathering specific information 
+on a specific target. You can use the same options, however I do recomend for testing 
+security try to use avoidance techniques to ensure blue team strength. 
+Ex: nmap -Pn -sV -vvvv -f 10.0.7.21 10.0.7.6
 
 ADDIONAL OPTIONS I LIKE TO USE:
   -Port Scanning techniques 
@@ -27,4 +36,8 @@ ADDIONAL OPTIONS I LIKE TO USE:
   -OS detection 
   -Host discovery
   -Evasion
-  -Searching within NSE scripts 'ls | grep ftp' I found to be helpful. (cd into proper directory before grep command)
+  -Searching within NSE scripts 'ls | grep ftp' I found to be helpful. 
+  (cd into proper directory before grep command)
+
+Said additional info can be found here: https://nmap.org/book/man.html
+
