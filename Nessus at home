@@ -1,1 +1,7 @@
+Nessus can be installed on your home router. Download Home version here: https://www.tenable.com/products/nessus/nessus-essentials 
+
+It provides an extra layer of protection by automating vulnerability scans, scan entire cloud structures and more :O 
+
+The Home version has less support but it is free! Once through the installation process 
+(which may take a decent chunk of time, mine took 30ish min. to complete) you now can scan your network up to 16 ip addresses! 
 
