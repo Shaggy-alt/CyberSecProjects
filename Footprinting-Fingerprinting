@@ -27,4 +27,4 @@ ADDIONAL OPTIONS I LIKE TO USE:
   -OS detection 
   -Host discovery
   -Evasion
-  -Searching within NSE 'grep | [ftp]'
+  -Searching within NSE scripts 'ls | grep ftp' I found to be helpful. (cd into proper directory before grop command)
