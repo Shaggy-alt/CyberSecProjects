@@ -26,11 +26,11 @@ you will be using the network sweep version. Use any additional options like
 -sV -Pn and even any other scripting tools. Ex: nmap -sV -O 10.0.7.1-254
 
 TO DO A FINGERPRINT: Used along side enumeration, you are gathering specific information 
-on a specific target. You can use the same options, however I do recomend for testing 
+on a specific target. You can use the same options, however I do recommend for testing 
 security try to use avoidance techniques to ensure blue team strength. 
 Ex: nmap -Pn -sV -vvvv 10.0.7.6
 
-ADDIONAL OPTIONS I LIKE TO USE:
+ADDITIONAL OPTIONS I LIKE TO USE:
   -Port Scanning techniques 
   -Service Detection
   -OS detection 
