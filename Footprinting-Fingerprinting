@@ -1,12 +1,12 @@
 I will be using NMAP, Download here if you havent already: https://nmap.org/download
 
-The goal of this project was to understand the difference betweeen Footprinting & 
+The goal of this project was to understand the difference between Footprinting & 
 Fingerprinting. Footprinting is scanning the entire network topology while 
 Fingerprinting is scanning a specific target to gain further service type info etc...
 ____________________________________________________________________________________
 
-NOTE: DO NOT USE IN LIVE ENVIRONMENTS WITHOUT EXPLICIT ATHORITY. 
-NMAP IS EASILY DETECTED. UNLAWFULL USE MAY RESULT UP TO FELONY 
+NOTE: DO NOT USE IN LIVE ENVIRONMENTS WITHOUT EXPLICIT AUTHORITY. 
+NMAP IS EASILY DETECTED. UNLAWFUL USE MAY RESULT UP TO FELONY 
 CHARGES. 
 
 _____________________________________________________________________________________
