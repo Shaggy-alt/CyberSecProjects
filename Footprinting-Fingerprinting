@@ -1,5 +1,8 @@
 I will be using NMAP, Download here if you havent already: https://nmap.org/download
 
+The goal of this project was to understand the difference betweeen Footprinting & 
+Fingerprinting. Footprinting is scanning the entire network topology while 
+Fingerprinting is scanning a specific target to gain further service type info etc...
 ____________________________________________________________________________________
 
 NOTE: DO NOT USE IN LIVE ENVIRONMENTS WITHOUT EXPLICIT ATHORITY. 
@@ -11,9 +14,8 @@ ________________________________________________________________________________
 You can always pull up the manual by using 'man nmap' or 'nmap -h' depending on OS.
 
 Once installed you can start scanning specific targets or do a whole network scan. 
-|  -Targeted sweep: nmap 10.0.2.10   |
-|  -Network sweep: nmap 10.0.2.1-254 |
-|____________________________________|
+  -Targeted sweep: nmap 10.0.2.10   
+  -Network sweep: nmap 10.0.2.1-254 
 
 
 
