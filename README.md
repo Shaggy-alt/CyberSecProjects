@@ -1,11 +1,13 @@
 # CyberSecProjects
 All of my projects I've completed related to Cyber Security.
 
+____________________________________________________________________________________
 
 NOTE: ALL OF MY PROJECTS WERE CONDUCTED IN A CONTAINED ENVIRONMENT.                   
 SOME OF THESE TECHNIQUES/TOOLS WILL GET YOU INTO LEGAL TROUBLE WHEN USED IMPROPERLY.
 DO NOT ATTEMPT IN LIVE PRODUCTION/ WITHOUT CONSENT OF OWNER.                         
 
+____________________________________________________________________________________
 
 Projects include: 
 - Wireshark .pcap file analysis. 
