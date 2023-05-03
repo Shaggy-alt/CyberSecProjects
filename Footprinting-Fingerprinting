@@ -1,1 +1,19 @@
+I will be using NMAP, Download here if you havent already: https://nmap.org/download
+
+____________________________________________________________________________________
+
+NOTE: DO NOT USE IN LIVE ENVIRONMENTS WITHOUT EXPLICIT ATHORITY. 
+NMAP IS EASILY DETECTED. UNLAWFULL USE MAY RESULT UP TO FELONY 
+CHARGES. 
+
+_____________________________________________________________________________________
+
+You can always pull up the manual by using 'man nmap' or 'nmap -h' depending on OS.
+
+Once installed you can start scanning specific targets or do a whole network scan. 
+|  -Targeted sweep: nmap 10.0.2.10   |
+|  -Network sweep: nmap 10.0.2.1-254 |
+|____________________________________|
+
+
 
