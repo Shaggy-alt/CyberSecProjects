@@ -11,8 +11,8 @@ The search function built into wireshark is very powerfull, you can search for s
 This will be your best friend along with expert information window that you can select from the bottom left 
 of the wireshark window. With these two in tandem you can sniff out specific packets that look suspect to you.
 
-
 For example. If someone was using nmap to scan your network, you would be able to see the flood of ping requests
 & you could further filter for only the ip along with ipinfo.io you could get a rough estimate of who/where they 
 are based from. 
 
+I found this video helpful aswell: https://www.youtube.com/watch?v=lb1Dw0elw0Q&t=67s&ab_channel=VinsloevAcademy
