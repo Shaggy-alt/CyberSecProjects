@@ -11,17 +11,16 @@ _____________________________________________________________
 Visit https://www.virtualbox.org/wiki/Downloads to download the most current version. I would also advise installing the oracle extension pack as-well. 
 The extension pack provides the following added functionality:
 
-VirtualBox Remote Desktop Protocol (VRDP) support. See Section 7.1, “Remote Display (VRDP Support)”.
+  - VirtualBox Remote Desktop Protocol (VRDP) support. See Section 7.1, “Remote Display (VRDP Support)”.
 
-Host webcam passthrough. See Section 9.5, “Webcam Passthrough”.
+  - Host webcam passthrough. See Section 9.5, “Webcam Passthrough”.
 
-Intel PXE boot ROM.
+  - Intel PXE boot ROM.
 
-Disk image encryption with AES algorithm. See Section 9.29, “Encryption of Disk Images”.
+  - Disk image encryption with AES algorithm. See Section 9.29, “Encryption of Disk Images”.
 
-Cloud integration features. See Section 1.16, “Integrating with Oracle Cloud Infrastructure”.
+  - Cloud integration features. See Section 1.16, “Integrating with Oracle Cloud Infrastructure”.
 
-For details of how to install an extension pack, see Section 2.5, “Installing an Extension Pack”.
 
 This video provides a walkthrough from downloading to installing a windows 7 machine. 
 ( I recommend installing A windows 10 instead for pen-test practice, win7 is also no longer being provided by microsoft.)
