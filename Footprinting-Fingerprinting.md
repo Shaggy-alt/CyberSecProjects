@@ -6,9 +6,10 @@ Fingerprinting with the knowledge on implementing them accordingly.
 Footprinting is scanning the entire network topology while 
 Fingerprinting is scanning a specific target to gain further service type info etc...
 
+NOTE: Some options need superuser/admin priv. 
 ____________________________________________________________________________________
 
-NOTE: DO NOT USE IN LIVE ENVIRONMENTS WITHOUT EXPLICIT AUTHORITY. 
+WARNING: DO NOT USE IN LIVE ENVIRONMENTS WITHOUT EXPLICIT AUTHORITY. 
 NMAP IS EASILY DETECTED. UNLAWFUL USE MAY RESULT UP TO FELONY 
 CHARGES. 
 
