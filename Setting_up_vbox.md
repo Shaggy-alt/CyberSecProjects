@@ -1,4 +1,4 @@
-This will instruct on how to install vitrual box along with oracle extension. I will also include kali/metasploitable machines installation guide here. 
+This will instruct on how to install virtual box along with oracle extension. I will also include kali/metasploitable machines installation guide here. 
 
 
 NOTE: Some Vulnerable machines if misconfigured can be left open to the public. 
@@ -8,7 +8,7 @@ INSTALLING
 _____________________________________________________________
 
 
-Visit https://www.virtualbox.org/wiki/Downloads to download the most current version. I would also advise installing the oracle extension pack aswell. 
+Visit https://www.virtualbox.org/wiki/Downloads to download the most current version. I would also advise installing the oracle extension pack as-well. 
 The extension pack provides the following added functionality:
 
 VirtualBox Remote Desktop Protocol (VRDP) support. See Section 7.1, “Remote Display (VRDP Support)”.
@@ -26,14 +26,14 @@ For details of how to install an extension pack, see Section 2.5, “Installing 
 This video provides a walkthrough from downloading to installing a windows 7 machine. 
 ( I recommend installing A windows 10 instead for pen-test practice, win7 is also no longer being provided by microsoft.)
 
-Video below:
+Video:
 | https://www.youtube.com/watch?v=NwCYnOab2Zo&ab_channel=ComputerSupport |
 
 
 
 Once installed you can follow the same process for the kali machine OR you can download the virtual machine version's of kali
 
-vm link below:
+vm link:
 | https://www.kali.org/get-kali/#kali-virtual-machines |
 
 
@@ -66,7 +66,7 @@ Normally you wouldnt want to touch anything in advanced but incase here are why 
   - Paravirtualized Network Adapter (virtio-net) is a special case. Instead of virtualizing networking hardware that is supported by most operating systems, a guest operating system must provide a special software interface for virtualized environments. 
    This approach allows you to avoid the complexity of networking hardware emulating and, as a result, can improve network performance.
 ---------------------
-How to attach virtual Types: There is a setting within the network adapter called "Attached to:" , This is crusial to how it affects your personal network you are creating and can also affect your home network. 
+How to attach virtual Types: There is a setting within the network adapter called "Attached to:" , This is crucial to how it affects your personal network you are creating and can also affect your home network. 
 Below is a list of said different types and why you would use one of them. 
 ---------------------
   - Not attached. In this mode, Oracle VM VirtualBox reports to the guest that a network card is present, but that there is no connection. This is as if no Ethernet cable was plugged into the card. Using this mode, it is possible to pull the virtual Ethernet cable and disrupt the connection, which can be useful to        inform a guest operating system that no network connection is available and enforce a reconfiguration.
@@ -88,7 +88,7 @@ Below is a list of said different types and why you would use one of them.
 
 _______________________________________________________
   - HOW I SETUP MY NETWORK FOR OFFLINE PENTESTING: This is for when I can't have any internet access to or from my victim machine as I might be using an 
-    untested vulnerablilty/malware on said victim machine that could result in data loss/hardware damage. 
+    untested vulnerabililty/malware on said victim machine that could result in data loss/hardware damage. 
   
   
   
