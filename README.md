@@ -10,6 +10,7 @@ DO NOT ATTEMPT IN LIVE PRODUCTION/ WITHOUT CONSENT OF OWNER.
 ____________________________________________________________________________________
 
 Projects include: 
+- Installing Virtual box with oracle extension. 
 - Wireshark .pcap file analysis. 
 - Installing & using nessus on home network.
 - SIEM integration & monitoring. 
