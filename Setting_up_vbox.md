@@ -1,7 +1,7 @@
 This will instruct on how to install virtual box along with oracle extension. I will also include kali/metasploitable machines installation guide here. 
+NOTE: DONT BE SILLY USE SCREENSHOTS!!!!!!!!!!!
 
-
-NOTE: Some Vulnerable machines if misconfigured can be left open to the public. 
+WARNING: Some Vulnerable machines if misconfigured can be left open to the public wich may result in network compromise. 
 
 _____________________________________________________________
 INSTALLING
@@ -87,10 +87,13 @@ Below is a list of said different types and why you would use one of them.
 
 
 _______________________________________________________
-  - HOW I SETUP MY NETWORK FOR OFFLINE PENTESTING: This is for when I can't have any internet access to or from my victim machine as I might be using an 
+  HOW I SETUP MY NETWORK FOR OFFLINE PENTESTING: This is for when I can't have any internet access to or from my victim machine as I might be using an 
     untested vulnerabililty/malware on said victim machine that could result in data loss/hardware damage. 
-  
-  
+_______________________________________________________
+
+  - USE Internal-Networking. you will be interacting with malware and as such you dont need to be connected to the outside internet, let alone your host hardware. It will ensure that no inbound/outbound coonectivity cannot happen.(Update what you need before starting offline pentest. Ex: kali on patch tuesdays.) 
+  - Change the MAC address to something you can remember if you have a mesh of vms at the same time. 
+  - 
   
   
   
