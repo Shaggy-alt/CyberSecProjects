@@ -102,3 +102,6 @@ _______________________________________________________
   
   
   
+Sources found here: 
+| https://www.virtualbox.org/manual/ch06.html |
+| https://www.nakivo.com/blog/virtualbox-network-setting-guide/ |
