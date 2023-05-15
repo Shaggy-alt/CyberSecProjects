@@ -10,6 +10,7 @@ NOTE: Some options need superuser/admin priv.
 ____________________________________________________________________________________
 
 WARNING: DO NOT USE IN LIVE ENVIRONMENTS WITHOUT EXPLICIT AUTHORITY. 
+USER IS RESPONSIBLE FOR OWN ACTIONS.
 NMAP IS EASILY DETECTED. UNLAWFUL USE MAY RESULT UP TO FELONY 
 CHARGES. 
 
