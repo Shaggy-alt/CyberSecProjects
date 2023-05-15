@@ -32,7 +32,7 @@ security try to use avoidance techniques to ensure blue team strength.
 Ex: nmap -Pn -sV -vvvv 10.0.7.6
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-ADDITIONAL OPTIONS I LIKE TO USE:
+ADDITIONAL OPTIONS I FOUND TO BE USEFUL:
 -Port Scanning techniques-
   
   - -sS (TCP SYN scan)
