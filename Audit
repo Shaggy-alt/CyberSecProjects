@@ -1,1 +1,6 @@
 There will be two sets of instruction for win and linux.
+
+
+The goal of this project was to familiarize myself with auditing pc's and automating that process into a siem through splunk.
+This is will also tie into installing a siem.
+
