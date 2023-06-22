@@ -1,1 +1,5 @@
-This was part of my bootcamp and the reason we did it was to expose ourselves to a buffer overflow attack that could result in gaining a reverse shell onto the system in a overly complicated way. 
+The goal of this project was to Set up legacy software in a contained envornment aswell as using an advance technique in order to gain a reverse shell and then priv. esc.
+
+
+
+
