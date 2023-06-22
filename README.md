@@ -3,7 +3,7 @@ All of my projects I've completed related to Cyber Security. [ UNDER CONSTRUCTIO
 
 ____________________________________________________________________________________
 
-NOTE: ALL OF MY PROJECTS WERE CONDUCTED IN A CONTAINED ENVIRONMENT.                   
+NOTE: MOST IF NOT ALL OF MY PROJECTS WERE CONDUCTED IN A CONTAINED ENVIRONMENT.                   
 SOME OF THESE TECHNIQUES/TOOLS WILL GET YOU INTO LEGAL TROUBLE WHEN USED IMPROPERLY.
 DO NOT ATTEMPT IN LIVE PRODUCTION/ WITHOUT CONSENT OF OWNER.                         
 
@@ -20,9 +20,10 @@ Projects include:
 - Privilege escalation on win/linux machines. 
 - Local File Inclusion/Remote File Inclusion. 
 - Footprinting/Fingerprinting.
+- Automatic Backdoor (APT)
 - Exploiting Vulnerable machines using..
     - Eternal Blue exploit. 
     - SQL Injection. 
     - Brute force. 
     - Reverse Shells. 
-- Automatic Backdoor (APT)
+
