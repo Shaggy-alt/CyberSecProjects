@@ -90,9 +90,9 @@ _______________________________________________________
     untested vulnerabililty/malware on said victim machine that could result in data loss/hardware damage. 
 _______________________________________________________
 
-  - USE Internal-Networking. you will be interacting with malware and as such you dont need to be connected to the outside internet, let alone your host hardware. It will ensure that no inbound/outbound coonectivity cannot happen.(Update what you need before starting offline pentest. Ex: kali on patch tuesdays.) 
+  - USE Internal-Networking. you will be interacting with malware and as such you dont need to be connected to the outside internet, let alone your host hardware. It will ensure that no inbound/outbound connectivity cannot happen.(Update what you need before starting offline pentest. Ex: kali on patch tuesdays.) 
   - Change the MAC address to something you can remember if you have a mesh of vms at the same time. 
-  - 
+  - If adding a spunk/opensense with a siem please use that network routing in vbox settings. 
   
   
   
